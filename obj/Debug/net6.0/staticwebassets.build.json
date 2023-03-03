@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IoaFwe8bVdpFMdgRsrzyxYKbaAAKgQcgOyUkmeJGZ8o=",
+  "Source": "WebApicosmosdb",
+  "BasePath": "_content/WebApicosmosdb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
